@@ -1,0 +1,12 @@
+com\example\t1Backend\dal\repositories\TechnologyRepo.class
+com\example\t1Backend\api\technology\servises\TechnologyService$ErrorResponse.class
+com\example\t1Backend\api\technology\controllers\TechnologyController.class
+com\example\t1Backend\api\technology\servises\TechnologyService$CustomBadRequestException.class
+com\example\t1Backend\configs\TechnologyConfig.class
+com\example\t1Backend\dal\entities\Technology.class
+com\example\t1Backend\api\technology\servises\TechnologyService.class
+com\example\t1Backend\dal\entities\TechnologyArchived.class
+com\example\t1Backend\api\technology\servises\TechnologyService$GlobalExceptionHandler.class
+com\example\t1Backend\T1BackendApplication.class
+com\example\t1Backend\api\technology\contracts\TechnologyDTO.class
+com\example\t1Backend\dal\repositories\TechnologyArchivedRepo.class

@@ -1,0 +1,9 @@
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\api\technology\contracts\TechnologyDTO.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\api\technology\controllers\TechnologyController.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\api\technology\servises\TechnologyService.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\configs\TechnologyConfig.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\dal\entities\Technology.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\dal\entities\TechnologyArchived.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\dal\repositories\TechnologyArchivedRepo.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\dal\repositories\TechnologyRepo.java
+C:\Stajirovka\Git\t1Backend\src\main\java\com\example\t1Backend\T1BackendApplication.java
